@@ -55,7 +55,7 @@
   <div class="card">
     <div class="confetti" id="confetti"></div>
     <h1>🎂 Selamat Ulang Tahun, Nindy!</h1>
-    <h2>Usia 21 Tahun 💐</h2>
+    <h2> Selamat Bertambah umur yang ke 21 Tahun 💐</h2>
     <p>
       Untuk orang yang paling berharga di hidupku, terimakasih telah datang mengisi hari-hariku selama 2 tahun ini.  
       Terimakasih telah menjadi orang yang paling spesial di hidupku,  
